@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+body{
+	text-align: center;
+	background-image: url(https://images6.alphacoders.com/527/527937.jpg);
+}
+
+
+h1{
+	font-family: 'Quicksand', sans-serif;
+	font-size: 50px;
+	color: white;
+}
+
+#mapa{
+	width: 700px;
+	height: 500px;
+	padding-left: 650px;
+}
+
+p{
+	color: black;
+	font-family: 'Quicksand', sans-serif;
+}
+
+
